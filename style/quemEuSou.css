@@ -1,0 +1,33 @@
+section{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#corpo{
+    width: 70%;
+    margin: 0 auto;
+}
+
+#titulo{
+    text-align: left;
+}
+
+#text{
+    margin-top: 25px;
+}
+
+#corpo ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+#corpo ul li {
+    list-style: none;
+    text-align: left;
+    margin-left: 30px;
+  }

@@ -1,0 +1,43 @@
+main{
+    height: 77.3vh;
+  }
+  
+.contact-section {
+    padding: 40px;
+    text-align: center;
+}
+
+.contact-header h1 {
+    font-size: 32px;
+    color: black;
+}
+
+.contact-options {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 200px;
+}
+
+.contact-options ul{
+        list-style: none;
+}
+
+#option {
+    flex: 1;
+    text-align: center;
+}
+
+#option h2 {
+    font-size: 24px;
+}
+
+#option li {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#option ul li a{
+    color: black;
+}
+

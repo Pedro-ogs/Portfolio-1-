@@ -1,0 +1,18 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.client {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.client h2 {
+    margin-top: 0;
+}
+
+section{
+    height: 79.8vh;
+  }
